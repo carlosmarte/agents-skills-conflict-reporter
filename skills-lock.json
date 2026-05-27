@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "skills": {
+    "agent-skill-kit-ci-integrator": {
+      "source": "carlosmarte/agents-skills-kit",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/agent-skill-kit-ci-integrator/SKILL.md",
+      "computedHash": "038b00d622b53688ac026d306cf699ae946f3c33ace4217cb93a5a91c01000d9"
+    },
+    "agent-skill-kit-commons": {
+      "source": "carlosmarte/agents-skills-kit",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/agent-skill-kit-commons/SKILL.md",
+      "computedHash": "d0a397d8d8cb6eec5543ba76dd0322bd978dcb62c79ecbdced620dd9e3ecf9dd"
+    },
+    "agent-skill-kit-creator": {
+      "source": "carlosmarte/agents-skills-kit",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/agent-skill-kit-creator/SKILL.md",
+      "computedHash": "c21604e7a3d1a97d64bcc520e07fee254289b2f9a361f5d133785a9e685e8a0e"
+    },
+    "agent-skill-kit-dependency-resolver": {
+      "source": "carlosmarte/agents-skills-kit",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/agent-skill-kit-dependency-resolver/SKILL.md",
+      "computedHash": "24854d41a912ab0a204dd1bbbc2836ff2ed9bb8c9db584711733c063df5babea"
+    },
+    "agent-skill-kit-description-optimizer": {
+      "source": "carlosmarte/agents-skills-kit",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/agent-skill-kit-description-optimizer/SKILL.md",
+      "computedHash": "40b985512273042e7437f6dbe1d7ddb9358a6d3f95cc1dbe88ae72cbafbe69ce"
+    },
+    "agent-skill-kit-discoverability-linter": {
+      "source": "carlosmarte/agents-skills-kit",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/agent-skill-kit-discoverability-linter/SKILL.md",
+      "computedHash": "4005ee5b7d57824bc04b7e3433662647ba64fbd3a99814b751d891cc26761885"
+    },
+    "agent-skill-kit-prompt-emitter": {
+      "source": "carlosmarte/agents-skills-kit",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/agent-skill-kit-prompt-emitter/SKILL.md",
+      "computedHash": "9796ba1602ddfa3fbf7c2cb0d81eb15f6938aadc7c8dde296b0b4f40ecebebe4"
+    },
+    "agent-skill-kit-security-auditor": {
+      "source": "carlosmarte/agents-skills-kit",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/agent-skill-kit-security-auditor/SKILL.md",
+      "computedHash": "41fae1fc0edc8ed3af2dec83248c143f208b52bc6544c7cfe3d3dda69064f1e4"
+    },
+    "agent-skill-kit-validator": {
+      "source": "carlosmarte/agents-skills-kit",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/agent-skill-kit-validator/SKILL.md",
+      "computedHash": "cfc5c4767d56a6c3e0e1dce512c07c01c9205637119d31c1da6d2b8e533fcba6"
+    },
+    "claude-symlink-agent-individual-skills": {
+      "source": "carlosmarte/claude-symlink-agent-individual-skills",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/claude-symlink-agent-individual-skills/SKILL.md",
+      "computedHash": "59d6590fbf1ab1b59b0737c89b423269dcfafe9b9fb9ecc156a181c0f6ae4698"
+    },
+    "skill-repo-readme": {
+      "source": "carlosmarte/claude-symlink-agent-readme",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/skill-repo-readme/SKILL.md",
+      "computedHash": "9fd033ef5a1b4b71990ddf18b825b64b0f1baff028db15628153be65b86fa66c"
+    },
+    "skills-lock-gitignore-prune": {
+      "source": "carlosmarte/claude-symlink-agent-ignored-lock-skills",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/skills-lock-gitignore-prune/SKILL.md",
+      "computedHash": "2f7566cbbcbdd6a115221f4acfb861aa11936c4a1f01b68fe9876dd69749753f"
+    }
+  }
+}

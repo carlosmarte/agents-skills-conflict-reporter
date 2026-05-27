@@ -1,0 +1,5 @@
+.claude/skills/agent-skill-kit*
+.agents/skills/agent-skill-kit*
+.claude/skills/claude-symlink-agent-individual-skills
+.claude/skills/skills-lock-gitignore-prune
+.claude/skills/skill-repo-readme
